@@ -1,0 +1,33 @@
+c:\users\maciej\documents\visual studio 2017\Projects\CSV_Reader\CSV_Reader\bin\Debug\CSV_Reader.exe.config
+c:\users\maciej\documents\visual studio 2017\Projects\CSV_Reader\CSV_Reader\bin\Debug\CSV_Reader.exe
+c:\users\maciej\documents\visual studio 2017\Projects\CSV_Reader\CSV_Reader\bin\Debug\CSV_Reader.pdb
+c:\users\maciej\documents\visual studio 2017\Projects\CSV_Reader\CSV_Reader\obj\Debug\CSV_Reader.Form1.resources
+c:\users\maciej\documents\visual studio 2017\Projects\CSV_Reader\CSV_Reader\obj\Debug\CSV_Reader.Properties.Resources.resources
+c:\users\maciej\documents\visual studio 2017\Projects\CSV_Reader\CSV_Reader\obj\Debug\CSV_Reader.csproj.GenerateResource.Cache
+c:\users\maciej\documents\visual studio 2017\Projects\CSV_Reader\CSV_Reader\obj\Debug\CSV_Reader.exe
+c:\users\maciej\documents\visual studio 2017\Projects\CSV_Reader\CSV_Reader\obj\Debug\CSV_Reader.pdb
+c:\users\maciej\documents\visual studio 2017\Projects\CSV_Reader\CSV_Reader\bin\Debug\CsvHelper.dll
+c:\users\maciej\documents\visual studio 2017\Projects\CSV_Reader\CSV_Reader\bin\Debug\CsvHelper.xml
+C:\Users\Maciej\documents\visual studio 2017\Projects\CSV_Reader\CSV_Reader\obj\Debug\CSV_Reader.csprojResolveAssemblyReference.cache
+C:\Users\Maciej\Desktop\CSV_Reader\CSV_Reader\bin\Debug\CSV_Reader.exe.config
+C:\Users\Maciej\Desktop\CSV_Reader\CSV_Reader\bin\Debug\CSV_Reader.exe
+C:\Users\Maciej\Desktop\CSV_Reader\CSV_Reader\bin\Debug\CSV_Reader.pdb
+C:\Users\Maciej\Desktop\CSV_Reader\CSV_Reader\bin\Debug\CsvHelper.dll
+C:\Users\Maciej\Desktop\CSV_Reader\CSV_Reader\bin\Debug\CsvHelper.xml
+C:\Users\Maciej\Desktop\CSV_Reader\CSV_Reader\obj\Debug\CSV_Reader.csprojResolveAssemblyReference.cache
+C:\Users\Maciej\Desktop\CSV_Reader\CSV_Reader\obj\Debug\CSV_Reader.Properties.Resources.resources
+C:\Users\Maciej\Desktop\CSV_Reader\CSV_Reader\obj\Debug\CSV_Reader.csproj.GenerateResource.Cache
+C:\Users\Maciej\Desktop\CSV_Reader\CSV_Reader\obj\Debug\CSV_Reader.exe
+C:\Users\Maciej\Desktop\CSV_Reader\CSV_Reader\obj\Debug\CSV_Reader.pdb
+C:\Users\Magda\Desktop\CSV_Reader\CSV_Reader\bin\Debug\CSV_Reader.exe.config
+C:\Users\Magda\Desktop\CSV_Reader\CSV_Reader\obj\Debug\CSV_Reader.exe
+C:\Users\Magda\Desktop\CSV_Reader\CSV_Reader\obj\Debug\CSV_Reader.pdb
+C:\Users\Magda\Desktop\CSV_Reader\CSV_Reader\bin\Debug\CSV_Reader.exe
+C:\Users\Magda\Desktop\CSV_Reader\CSV_Reader\bin\Debug\CSV_Reader.pdb
+C:\Users\Magda\Desktop\CSV_Reader\CSV_Reader\bin\Debug\CsvHelper.dll
+C:\Users\Magda\Desktop\CSV_Reader\CSV_Reader\bin\Debug\CsvHelper.xml
+C:\Users\Magda\Desktop\CSV_Reader\CSV_Reader\obj\Debug\CSV_Reader.csprojResolveAssemblyReference.cache
+C:\Users\Magda\Desktop\CSV_Reader\CSV_Reader\obj\Debug\CSV_Reader.Form1.resources
+C:\Users\Magda\Desktop\CSV_Reader\CSV_Reader\obj\Debug\CSV_Reader.Properties.Resources.resources
+C:\Users\Magda\Desktop\CSV_Reader\CSV_Reader\obj\Debug\CSV_Reader.csproj.GenerateResource.Cache
+C:\Users\Maciej\Desktop\CSV_Reader\CSV_Reader\obj\Debug\CSV_Reader.Form1.resources
